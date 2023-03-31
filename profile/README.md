@@ -8,6 +8,7 @@ We have a wide range of projects that we are working on, including:
 
 - ALX Dark Mode Extension
 - ALX ...
+
 All our projects are open source and free to use. You can find more information about each project in their respective repositories.
 
 ## 🤝 Contributing
