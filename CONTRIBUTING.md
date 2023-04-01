@@ -44,8 +44,7 @@ Before submitting a pull request, make sure to test your changes locally. Provid
 - Name your issues with a clear and descriptive title that reflects the problem or feature you're addressing.
 - Name your branch with a clear and descriptive name that reflects the issue or feature you're working on. Use hyphens to separate words.
 - Use a clear and descriptive commit message that references the issue you're fixing.
-- When creating a PR, please provide a clear description of the changes you made and reference the issue you're fixing in the description.
-
+- When creating a PR, please provide a clear description of the changes you made and reference the issue you're fixing by writting "Fixes #1234" in the somewhere in the description. 
 ## 💬 Code of Conduct
 To encourage respectful and inclusive behavior among contributors, we ask that everyone follow our Code of Conduct. Read it here: CODE_OF_CONDUCT.md.
 
