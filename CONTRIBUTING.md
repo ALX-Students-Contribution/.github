@@ -38,6 +38,7 @@ If you are unable to fix the bug or implement the feature, don't worry, we will 
 8. Create a pull request (PR) to merge your changes into the original repository.
 
 Remember to keep your fork in sync with the original repository by doing a git fetch and git push regularly.
+Before submitting a pull request, make sure to test your changes locally. Provide a screen recording of the implemented changes when making the PR.
 
 ### 🌟 Naming Conventions
 - Name your issues with a clear and descriptive title that reflects the problem or feature you're addressing.
@@ -45,17 +46,16 @@ Remember to keep your fork in sync with the original repository by doing a git f
 - Use a clear and descriptive commit message that references the issue you're fixing.
 - When creating a PR, please provide a clear description of the changes you made and reference the issue you're fixing in the description.
 
-## 🎯 Testing Changes Locally
-Before submitting a pull request, make sure to test your changes locally. Provide a screen recording of the implemented changes when making the PR.
-
 ## 💬 Code of Conduct
 To encourage respectful and inclusive behavior among contributors, we ask that everyone follow our Code of Conduct. Read it here: CODE_OF_CONDUCT.md.
 
 ## 🚨 Reporting Security Vulnerabilities
-If you find a security vulnerability, please report it to us right away. Read our guidelines for responsible disclosure here: SECURITY.md.
+If you discover a security vulnerability, please report it immediately by contacting us at alxstudentscontribution@gmail.com . Please do not create an issue for security vulnerabilities.
+
+We take security vulnerabilities seriously and will work to address them as quickly as possible.
 
 ## 👨‍💻 Becoming a Maintainer
-We welcome contributors who are interested in becoming a maintainer of the project. Criteria for becoming a maintainer include consistent contributions, high-quality code, and a good track record of following the project's guidelines. Maintainers are responsible for reviewing pull requests, maintaining the codebase, and helping to grow the community.
+If you are interested in becoming a maintainer of the project, please reach out to us at alxstudentscontribution@gmail.com . We will consider candidates based on their contributions to the project, technical expertise, and commitment to our code of conduct. Maintainers are responsible for reviewing pull requests, maintaining the codebase, and helping to grow the community.
 
 ## 🤝 Join the Community
 We welcome all ALX students who are interested in making contributions or working on open source projects. Join us and help us create a world where everyone has equal access to high-quality education and opportunities for personal and professional growth.
