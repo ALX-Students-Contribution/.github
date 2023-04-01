@@ -20,7 +20,7 @@ We welcome contributions from everyone who wants to help us make a difference. W
 - Fix a bug or implement a new feature 🛠️
 - Review code and help us improve 🤔
 
-To get started, take a look at the [CONTRIBUTION.md](https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md)
+Ready to jump in? Take a look at our [CONTRIBUTION.md](https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md) to get started!
 
 ## 👨‍💻 Our Community
 Our community is made up of talented and motivated developers from all over the world. We value diversity and inclusivity, and we believe that everyone has something valuable to contribute. We also organize regular meetups, webinars, and hackathons to help our members connect and learn from each other.
