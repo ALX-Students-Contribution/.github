@@ -1,4 +1,4 @@
-# Welcome to ALX Students 👋
+# Welcome to ALX Student's Contribution 👋
 ALX Students banner
 
 We are a global community of ALX students who are passionate about making a difference in the world through education and technology. Our mission is to create a world where everyone has equal access to high-quality education and opportunities for personal and professional growth.
