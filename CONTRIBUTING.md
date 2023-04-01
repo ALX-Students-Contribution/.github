@@ -1,7 +1,5 @@
-# 🎓 ALX Student's Contribution
-Welcome to the ALX Student's Contribution organization account. This community is made up of ALX students who are willing to make contributions back to the ALX community or work on other open source projects.
-
-## 🚀 How to Contribute
+# 🎓 Welcome to the ALX Student's Contribution page! 🚀
+ALX Student's Contribution is a community of ALX students who are passionate about contributing to open source projects and doing hard things. We are willing to make contributions back to the ALX community or work on other open source projects.
 
 ### 🐛 Bug Reports and Feature Requests
 We welcome contributions to fix bugs and add new features to our ALX Student's Contribution repository. If you encounter a bug or have a feature request, please create an issue on the repository so that we can track it.
