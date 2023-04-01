@@ -22,16 +22,6 @@ We welcome contributions from everyone who wants to help us make a difference. W
 
 Ready to jump in? Take a look at our [CONTRIBUTION.md](https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md) to get started!
 
-## 🤝 How to Contribute
-We welcome contributions from everyone who wants to help us make a difference. Whether you're an experienced developer or just getting started, there are many ways to contribute:
-
-- Submit a bug report or feature request 🐛
-- Help us write documentation 📖
-- Fix a bug or implement a new feature 🛠️
-- Review code and help us improve 🤔
-
-Ready to jump in? Take a look at our [CONTRIBUTION.md](https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md) to get started!
-
 ## 👨‍💻 Our Community
 Our community is made up of a talented and motivated group of developers from all corners of the globe! We believe in the power of diversity and inclusivity, and we know that every member has something valuable to contribute.
 
