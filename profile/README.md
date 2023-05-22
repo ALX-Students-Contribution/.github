@@ -7,7 +7,7 @@ We are a global community of ALX students who are passionate about making a diff
 Our community works on a wide range of open source projects, including:
 
 - ALX Dark Mode Extension 🌗
-- ALX Virtual Classroom 📚
+- Commit Assistant 🛠️
 - And many more!
 
 All our projects are free to use and open to contributions from anyone who shares our vision.
